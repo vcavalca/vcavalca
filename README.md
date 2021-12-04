@@ -20,6 +20,6 @@ I'm Vinicius, a Software Engineering student.
 - ⚡ Fun fact: ...
 -->
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=vcavalca&show_icons=true&theme=dracula)](https://github.com/vcavalca)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=vcavalca&show_icons=true&theme=dracula&count_private=true)](https://github.com/vcavalca)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vcavalca&layout=compact&theme=dracula)](https://github.com/vcavalca)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vcavalca&layout=compact&theme=dracula&count_private=true)](https://github.com/vcavalca)
