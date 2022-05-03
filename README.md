@@ -5,9 +5,8 @@
 Here are some ideas to get you started:
 -->
 
-I'm Vinicius, a Software Engineering student.
+My name is Vinicius, graduated in systems analysis and development.
 
-- 👨‍🎓 I’m currently studying Technologist in System Analysis at [Uninove](https://www.uninove.br/)!.
 - 🚀 I’m currently studying Software Engineering at [42 São Paulo](https://www.42sp.org.br/)!.
 - 🌱 I’m currently learning programming in C and SAP ABAP.
 - 🔭 I’m currently working on [Pipex Project](https://github.com/vcavalca/42SP-Pipex.git) for 42SP.
