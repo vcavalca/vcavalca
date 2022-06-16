@@ -5,12 +5,10 @@
 Here are some ideas to get you started:
 -->
 
-My name is Vinicius, graduated in systems analysis and development.
+My name is Vinicius, graduated in systems analysis and development by Uninove.
 
-- 🚀 I’m currently studying Software Engineering at [42 São Paulo](https://www.42sp.org.br/)!.
-- 🌱 I’m currently learning programming in C and SAP ABAP.
-- 🔭 I’m currently working on [Pipex Project](https://github.com/vcavalca/42SP-Pipex.git) for 42SP.
-- 📫 How to reach me: My e-mail is vcavalca@student.42sp.org.br
+- 🌱 I’m currently learning programming in JAVA and SAP ABAP.
+- 📫 How to reach me: My e-mail is viniciusc.moura@gmail.com
 <!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
