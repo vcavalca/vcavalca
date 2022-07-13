@@ -8,8 +8,8 @@ Here are some ideas to get you started:
 My name is Vinicius, graduated in systems analysis and development by Uninove.
 
 - 🌱 I’m currently learning programming in JAVA and SAP ABAP.
-- 📫 How to reach me: My e-mail is viniciusc.moura@gmail.com
 <!--
+- 📫 How to reach me: My e-mail is viniciusc.moura@gmail.com
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
