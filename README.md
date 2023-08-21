@@ -19,9 +19,8 @@ Here are some ideas to get you started:
 -->
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="175" align="center" src="https://camo.githubusercontent.com/c79d079406b1a718bb4d13335a62c3812f5374453edf373af6fd7c0fbdc78476/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d64756475616c75697a696f3137267468656d653d636f62616c742673686f775f69636f6e733d7472756526696e636c7564655f616c6c5f636f6d6d6974733d7472756526636f756e745f707269766174653d747275652672616e6b5f69636f6e3d676974687562" data-canonical-src="https://github-readme-stats.vercel.app/api?username=vcavalca&amp;theme=dracula&amp;show_icons=true&amp;include_all_commits=true&amp;count_private=true&amp;rank_icon=github" style="max-width: 100%;">
-
+  <img height=175 align="center" src="https://readmestats.999857.xyz/api?username=vcavalca&theme=dracula&show_icons=true&include_all_commits=true&count_private=true&amp;rank_icon=github" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height="175" align="center" src="https://camo.githubusercontent.com/328c196d59a05ce8a851c7cb57997725370328d6e9abc13f63085b0722bfc7c6/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67733f757365726e616d653d64756475616c75697a696f3137266c61796f75743d636f6d70616374266c616e67735f636f756e743d3826636172645f77696474683d333230267468656d653d636f62616c7426636f756e745f707269766174653d74727565" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs?username=vcavalca&amp;layout=compact&amp;langs_count=8&amp;card_width=320&amp;theme=dracula&amp;count_private=true" style="max-width: 100%;">
+  <img height=175 align="center" src="https://readmestats.999857.xyz/api/top-langs?username=vcavalca&layout=compact&langs_count=8&card_width=320&theme=dracula&count_private=true" />
 </a>
