@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 -->
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://readmestats.999857.xyz/api?username=vcavalca" />
+  <img height=175 align="center" src="https://readmestats.999857.xyz/api?username=vcavalca&theme=dracula&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://readmestats.999857.xyz/api/top-langs?username=vcavalca&layout=compact&langs_count=8&card_width=320" />
+  <img height=175 align="center" src="https://readmestats.999857.xyz/api/top-langs?username=vcavalca&layout=compact&langs_count=8&card_width=320&theme=dracula&count_private=true" />
 </a>
