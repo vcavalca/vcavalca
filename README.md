@@ -5,8 +5,8 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on SAP ABAP HXM
-- 🌱 I’m currently learning SAP ABAP HXM, SAP FIORI, SAP UI5
+- 🔭 I’m currently working on SAP ABAP
+- 🌱 I’m currently learning SAP ABAP, SAP FIORI, SAP UI5
 - ⚡ Fun fact: Did you know that it would take around 10 million human brains to generate enough electricity to power the computer you're using right now? 
 
 
