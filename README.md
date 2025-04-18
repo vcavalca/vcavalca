@@ -18,10 +18,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 -->
 
-<!--<a href="https://github.com/vcavalca/github-readme-stats.git">
+<a href="https://github.com/vcavalca/github-readme-stats.git">
   <img height=175 align="center" src="https://github-readme-stats-vcavalca.vercel.app/api?username=vcavalca&theme=dracula&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github" />
 </a>
 <a href="https://github.com/vcavalca/github-readme-stats.git">
   <img height=175 align="center" src="https://github-readme-stats-vcavalca.vercel.app/api/top-langs?username=vcavalca&layout=compact&langs_count=8&card_width=320&theme=dracula&count_private=true" />
 </a>
--->
