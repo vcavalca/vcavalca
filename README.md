@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 -->
 
 <a href="https://github.com/vcavalca/github-readme-stats.git">
-  <img height=175 align="center" src="http://github-readme-stats-ilnl-7x87f0a8q-vcavalcas-projects.vercel.app/api?username=vcavalca&theme=dracula&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github" />
+  <img height=175 align="center" src="http://github-readme-stats-ilnl-7x87f0a8q-vcavalcas-projects.vercel.app/api?username=vcavalcas&theme=dracula&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github" />
 </a>
 <a href="https://github.com/vcavalca/github-readme-stats.git">
-  <img height=175 align="center" src="http://github-readme-stats-ilnl-7x87f0a8q-vcavalcas-projects.vercel.app/api/top-langs?username=vcavalca&layout=compact&langs_count=8&card_width=320&theme=dracula&count_private=true" />
+  <img height=175 align="center" src="http://github-readme-stats-ilnl-7x87f0a8q-vcavalcas-projects.vercel.app/api/top-langs?username=vcavalcas&layout=compact&langs_count=8&card_width=320&theme=dracula&count_private=true" />
 </a>
